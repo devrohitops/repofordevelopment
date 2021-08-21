@@ -3,4 +3,6 @@ echo "Hello World!";
 for x in range(5):
   print(x)
 
+if x in y:
+  print(y)
 
